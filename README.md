@@ -1,8 +1,20 @@
-# GFour- Invex (Gerenciador de Carteira)
 
-Contribua com informações respondendo esse formulário para nos ajudar a mapear o público alvo do nosso projeto
-- [Google Forms](https://forms.gle/Kf3idmQKuUbszZXHA)
-- [Planilha de resultados](https://docs.google.com/spreadsheets/d/177AoJFlq8A621-zy8515E2BPtlMRGWuLVCv_POgNQwU/edit?usp=sharing)
+ 
+
+<div align="left">
+   <h1> Busca-Imposto </h1>
+</div>
+
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/51385738/133483311-072bb013-4f9d-4137-819f-7f4eb68de76e.png"></img>
+</p>
+
+
+
+
+
+<br/>
 
 ##  Status do Projeto
 
@@ -15,7 +27,7 @@ Contribua com informações respondendo esse formulário para nos ajudar a mapea
 <br/>  
 
 ### 📄 Sobre o projeto
-> O Invext - GFour é uma plataforma para gerenciamento de carteira e ações do mercado financeiro<br/> 
+> O Busca-Imposto é uma aplicação que tem por objetivo informar ao consumidor quanto de imposto é pago em diversos produtos <br/> 
 
 ## ⚙️ Tecnologias utilizadas
 <div align="center">
@@ -23,17 +35,17 @@ As tecnologias foram determinadas de acordo com a necessidade das atividades a s
 
 Frontend | Backend | Database
 :--------- | :------:  | :------:  
-[HTML](https://html5.org/)  | [Node Js](https://nodejs.org/en/docs/) | [MySQL](https://dev.mysql.com/doc/)
-[CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [JavaScript](https://www.javascript.com/)  
-[React](https://pt-br.reactjs.org/)
+[HTML](https://html5.org/)  | [PHP 8](https://www.php.net/) | [MySQL](https://dev.mysql.com/doc/)
+[Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) | [Laravel](https://laravel.com/docs/7.x)   
 <br>
 <p align="center"> 
+  
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+ 
 </div>
 <br/> 
 
@@ -42,7 +54,24 @@ Frontend | Backend | Database
 
 Comandos
 
-🚧
+```bash
+git clone https://github.com/DS-Grupo-2/Busca-Imposto
+```
+```bash
+cd ./Busca-Imposto\WebApp
+```
+```bash
+composer require laravel/ui
+```
+```bash
+git clone https://github.com/DS-Grupo-2/Busca-Imposto
+```
+```bash
+composer install
+```
+```bash
+php artisan serve
+```
 
 
 ## Colaboradores
@@ -60,65 +89,57 @@ Desenvolvedor: amarelo #
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/87709987?v=4" width="100px;" alt="Foto Abritta"/><br>
+        <img src="https://avatars.githubusercontent.com/u/48967037?v=4" width="100px;" alt="Foto Magno"/><br>
         <sub>
-          <b>Maria Abritta</b>
+          <b>guipeeix7</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/88278278?v=4" width="100px;" alt="Foto Lucas Felipe"/><br>
+        <img src="https://avatars.githubusercontent.com/u/82157394?v=4" width="100px;" alt="Foto do Ricardo"/><br>
         <sub>
-          <b>Lucas Felipe</b>
+          <b>josue</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/88175144?v=4" width="100px;" alt="Foto Lucas Gomes"/><br>
+        <img src="https://avatars.githubusercontent.com/u/70181114?v=4" width="100px;" alt="Foto Gustave"/><br>
         <sub>
-          <b>Lucas Gomes</b>
+          <b>Erick Pereira Araujo</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/62120616?v=4" width="100px;" alt="Foto Leonardo Padre"/><br>
+        <img src="https://avatars.githubusercontent.com/u/52359503?v=4" width="100px;" alt="Foto Swamp"/><br>
         <sub>
-          <b>Leonardo Padre</b>
+          <b>brino</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/88516249?v=4" width="100px;" alt="Foto Luciano"/><br>
+        <img src="https://avatars.githubusercontent.com/u/88348377?v=4" width="100px;" alt="Foto do Augusto"/><br>
         <sub>
-          <b>Luciano Freitas</b>
+          <b>jlmds</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/58089751?v=4" width="100px;" alt="Foto Amanda"/><br>
+        <img src="https://avatars.githubusercontent.com/u/88348508?v=4" width="100px;" alt="Foto Daniel"/><br>
         <sub>
-          <b>Amanda Fernandes</b>
+          <b>lucaverdade</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/72047826?v=4" width="100px;" alt="Foto Antonio Junior"/><br>
+        <img src="https://avatars.githubusercontent.com/u/88348646?s=200&v=4" width="100px;" alt="Foto Eduardo"/><br>
         <sub>
-          <b>Antônio Júnior</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/82157394?v=4" width="100px;" alt="Foto Josué Teixeira"/><br>
-        <sub>
-          <b>Josué Teixeira</b>
+          <b>Eduardo Gurgel</b>
         </sub>
       </a>
     </td>
