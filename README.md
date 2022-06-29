@@ -98,7 +98,7 @@ Desenvolvedor: amarelo #
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/82157394?v=4" width="100px;" alt="Foto do Ricardo"/><br>
         <sub>
-          <b>zjosuez</b>
+          <b>josue</b>
         </sub>
       </a>
     </td>
