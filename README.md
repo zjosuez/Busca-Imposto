@@ -92,6 +92,14 @@ Desenvolvedor: amarelo #
     </td>
     <td align="center">
       <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/88516249?v=4" width="100px;" alt="Foto Luciano"/><br>
+        <sub>
+          <b>Luciano Freitas</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
         <img src="https://avatars.githubusercontent.com/u/58089751?v=4" width="100px;" alt="Foto Amanda"/><br>
         <sub>
           <b>Amanda Fernandes</b>
